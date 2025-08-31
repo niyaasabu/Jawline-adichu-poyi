@@ -33,7 +33,7 @@ Implementation
 For Software:
 
 Installation
-git clone https://github.com/username/jawline-adich-poyi.git
+git clone https://github.com/starof2005/jawline-adich-poyi.git
 
 
 Run
@@ -104,3 +104,4 @@ Team Contributions
 Sanjeev Santhosh – Arduino programming, Firebase integration, hardware setup.
 Neya Sabu – Web dashboard design, frontend animations, chart integration.
 Both members contributed equally to all aspects of the project.
+
